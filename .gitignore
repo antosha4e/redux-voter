@@ -1,0 +1,18 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+.idea/**
+target/**
+bin/**
+tmp/**
+overlays/**
+node_modules/**
+dist/**
+
+*.tmp
+*.iml
+*.bak
