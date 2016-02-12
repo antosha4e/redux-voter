@@ -1,4 +1,4 @@
-import {Map} from 'immutable';
+import {Map, List} from 'immutable';
 
 function vote(state, entry) {
     const currentPair = state.getIn(['vote', 'pair']);

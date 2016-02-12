@@ -1,5 +1,5 @@
 import makeStore from './store';
-import startServer from './server';
+import startServer from './serverBack';
 
 export const store = makeStore();
 startServer(store);
